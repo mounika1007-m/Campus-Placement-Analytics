@@ -14,7 +14,7 @@ This project presents an interactive Campus Placement Analytics Dashboard create
 - Power BI Desktop  
 - Power Query & Data Modeling (DAX Measures)  
 - Exploratory Data Analysis (EDA)  
-- Multi-Page Dashboard Design & UI/UX Visualization  
+- Multi-Page Dashboard Design & Visual Analytics  
 
 ## 🗂 Dataset Details
 The dataset contains student records and recruitment outcomes, including the following fields:
@@ -57,5 +57,4 @@ The Campus Placement Analytics Dashboard offers an interactive and comprehensive
 BCA Graduate (St. Francis College, Bangalore)  
 
 ## 📎 Project Type
-Academic / Business Intelligence Data Analytics Dashboard Project# Campus-Placement-Analytics
-An interactive, multi-page Power BI dashboard evaluating student placement trends, academic performance correlates, and top recruiter hiring outcomes across 1,000+ student records.
+Academic / Business Intelligence Data Analytics Dashboard Project
