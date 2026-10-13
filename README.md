@@ -53,7 +53,7 @@ The dataset contains student records and recruitment outcomes, including the fol
 The Campus Placement Analytics Dashboard offers an interactive and comprehensive view of recruitment performance. By combining executive KPIs, specialized multi-page charts, and dynamic slicers, it enables stakeholders to monitor trends, analyze high-demand skills, evaluate recruiter distributions, and make informed decisions to improve student placement outcomes.
 
 ## 👩‍💻 Created By
-**Mounika M.**  
+**Mounika M**  
 BCA Graduate (St. Francis College, Bangalore)  
 
 ## 📎 Project Type
